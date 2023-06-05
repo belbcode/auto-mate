@@ -1,0 +1,1 @@
+import "../public/extension/contentScript.js";
